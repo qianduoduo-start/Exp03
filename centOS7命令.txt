@@ -1,0 +1,5 @@
+#重新启动电脑
+reboot
+#远程、本地传输文件
+scp local_file remote_username@remote_ip:remote_file
+
